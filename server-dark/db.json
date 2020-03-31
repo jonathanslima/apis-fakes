@@ -1,0 +1,130 @@
+{
+  "serie": {
+    "name": "Dark"
+  },
+  "familyOne": {
+    "family": "The Kahnwald",
+    "level": {
+      "one": [{
+        "name": "Ines",
+        "img": "https://dark.netflix.io/static/102038ae9dbe7a9b25180f0b760e46cc/c3b8a/4d093f18ad7d4799582310065336e340936252aa_kahnwald_ines_1_s2_ep3_tc00-32-32.jpg"
+        }],
+        "two": [
+        {
+          "name": "Michael",
+          "img": "https://dark.netflix.io/static/d1fd77059a34179016cb53e9e777a1c6/c3b8a/61658b62af6a070e6cafabfba652437b1f4b0076_kahnwald_michael_1_s2_e6.jpg",
+          "linkedOnly": true
+        },
+        {
+          "name": "Hannah",
+          "img": "https://dark.netflix.io/static/20d08e1f1934cf92795edbaeea44bae3/c3b8a/b08551043c0a650e216cc4f7acd3fa22d6d7dd51_kahnwald_hannah_1_s2_e6_tc00-44-24.jpg"
+        }
+      ],
+      "three":[{
+        "name": "Jonas",
+        "img": "https://dark.netflix.io/static/7660ef11f235b92d2e6c676e3b662cfe/c3b8a/55a7601c23cf1b1a23378ffc373889e444aaadf8_kahnwald_jonas_1_s1e1_tc00-07-29.jpg"
+      }]
+    }
+  },
+  "familyTwo": {
+    "family": "The Nielsen",
+    "level": {
+      "one": [{
+        "name": "Agnes",
+        "img": "https://dark.netflix.io/static/93e33d4c7421856dfb21c9f8fb8c806f/c3b8a/9c29a55fd3fe19ac951e1168875071a8551c33e0_nielsen_agnes_1_s1_ep8_tc00-31-50.jpg"
+      }],
+      "two": [
+        {
+          "name": "Tronte",
+          "img": "https://dark.netflix.io/static/3e2528d11ad678039653853349698681/c3b8a/5cb773cce53484f39d17cd2439938717f2b722ab_nielsen_tronte_1_s1_ep5_tc00-11-32.jpg",
+          "linkedOnly": true
+        },
+        {
+          "name": "Jana",
+          "img": "https://dark.netflix.io/static/65f8ad1f69a5ba1945774c463d7cb313/c3b8a/86cef416435f7153b9a0c21396242674414c97d1_nielsen_jana_1_s1_ep2_tc00-08-54.jpg"
+        }
+      ],
+      "three":[
+        {
+          "name": "Katharina",
+          "img": "https://dark.netflix.io/static/9ae2d47fc010cc89ede040e874150d40/c3b8a/ff8b3478cb9bc1333445f0e5059aa267f6a96762_nielsen_katharina_1_s2_ep1_tc00-15-04.jpg"
+        },
+        {
+          "name": "Ulrich",
+          "img": "https://dark.netflix.io/static/316543ceb8b757c72958d2b4f967e82d/c3b8a/797298792ee22fb7a961e3de27bc80fa84e635e4_nielsen_ulrich_1_2019_s1_ep5_tc00-34-08.jpg"
+        }
+      ],
+      "four":[
+        {
+          "name": "Magnus",
+          "img": "https://dark.netflix.io/static/e19efc6bd62a3f8afd879165442d5567/c3b8a/e84353c6170293717fe54287d4bb3ef9f7a7e3fd_nielsen_magnus_1_s2_ep1_tc00-14-32.jpg"
+        },
+        {
+          "name": "Martha",
+          "img": "https://dark.netflix.io/static/ecf88ad968d7990df5b54d0610625400/c3b8a/539c3908220f72e4863c5c991095a00f007360f8_nielsen_martha_1_s1_ep2_tc00-20-35.jpg"
+        },
+        {
+          "name": "Mikkel",
+          "img": "https://dark.netflix.io/static/cb81af107200e1d24eabef4aacc8c9aa/c3b8a/e22895c2949e4e32cc4a54f7bd55c46ce58345d5_nielsen_mikkel_1_s1_ep3_tc00-07-51.jpg"
+        }
+      ]
+    }
+  },
+  "familyThree": {
+    "family": "The Tiedeman",
+    "level": {
+      "one": [{
+        "name": "Egon",
+        "img": "https://dark.netflix.io/static/d98ed795335b9e7eeb592c2d90f1fdf1/c3b8a/cc5e26d4236cfde2a11b34fb1048f5cf0ad131a2_tiedemann_egon_1_s1_ep3_tc00-26-44.jpg"
+      }],
+      "two": [
+        {
+          "name": "Claudia",
+          "img": "https://dark.netflix.io/static/ac5d74b9fab21d56499ab771301838c3/c3b8a/2031aea563372a2be65c8fef0cbd5106768562e1_tiedemann_claudia_1_s2_ep2_tc00-14-32.jpg",
+          "linkedOnly": true
+        }
+      ],
+      "three":[{
+        "name": "Aleksander",
+        "img": "https://dark.netflix.io/static/12d111a9fa52e30ac92a356c57c69cb5/c3b8a/e99ef6e4e1fefddf3f794a397bf3f3912e7038f2_tiedemann_aleksander_1_s2_ep1_tc00-11-07.jpg"
+      },
+      {
+        "name": "Regina",
+        "img": "https://dark.netflix.io/static/28fc4e008dd3dc11e6dd9512f05ad261/c3b8a/1524235dcd4b9eb65078fc49f0060e16f4f2651f_teidemann_regina_1_s1_ep2_tc00-13-59.jpg",
+        "linkedOnly": true
+      },
+      {
+        "name": "Bartosz",
+        "img": "https://dark.netflix.io/static/8b04ef61a44e2b0d7a24e1f157d21f24/c3b8a/27f572b960cf724d0f3342fa9e22556c8bc8effb_tiedemann_bartosz_1_s2_ep1_tc00-11-17.jpg"
+      }]
+    }
+  },
+  "familyFour": {
+    "family": "The Doppler",
+    "level": {
+      "one": [{
+        "name": "Helge",
+        "img": "https://dark.netflix.io/static/4f833b81585154d7aed3a9dd5bebc041/c3b8a/c8ebb5d0e0843db963fa1ffe2bbc2fdc1afabca3_doppler_helge_1_s2_ep2_tc00-30-36.jpg"
+      }],
+      "two": [
+        {
+          "name": "Peter",
+          "img": "https://dark.netflix.io/static/0218a9b17579c8b640191fc503be0750/c3b8a/70d5b323cd5eda4dd3956fa068b28807e5d82389_doppler_peter_1_s1_ep1_00-09-26.jpg",
+          "linkedOnly": true
+        },
+        {
+          "name": "Charlotte",
+          "img": "https://dark.netflix.io/static/0b5f32aa685a21c8db0cac5f0d2e00fd/c3b8a/3ad0a423256faddf012743942bdbbe1f1ddd354a_doppler_charlotte_1_s2_ep1_00-12-05.jpg"
+        }
+      ],
+      "three":[{
+        "name": "Franziska",
+        "img": "https://dark.netflix.io/static/afc4450ae8189de503d9da76c2bf653c/c3b8a/6ac2c256cdbc2d5ca588206572bad7fb12842236_doppler_franziska_1_s1_ep4_tc00-10-05.jpg"
+      },
+      {
+        "name": "Elizabeth",
+        "img": "https://dark.netflix.io/static/b48969a33f16e61e9cacd6b7abe2146f/c3b8a/e10f60e33d9738954db435f414ee67df429affcb_doppler_elisabeth_1_s1_ep4_tc00-26-37.jpg"
+      }]
+    }
+  }
+}
